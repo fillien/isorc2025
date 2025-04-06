@@ -1,1 +1,6 @@
 .DS_Store
+build
+*_logs_*
+*.png
+*.csv
+.cache
