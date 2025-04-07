@@ -1,3 +1,4 @@
 [submodule "schedsim"]
 	path = schedsim
 	url = https://github.com/fillien/schedsim.git
+	branch = isorc2025
